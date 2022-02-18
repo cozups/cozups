@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![cozups's github stats](https://github-readme-stats.vercel.app/api?username=cozups&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cozups)](https://solved.ac/cozups/)
 [![cozups's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cozups&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cozups)
-![image](https://user-images.githubusercontent.com/58796245/154607068-3585f8bc-f71e-4aa2-a9ec-0b35558fb0b5.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/58796245/154607068-3585f8bc-f71e-4aa2-a9ec-0b35558fb0b5.png)
