@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cozups)](https://solved.ac/cozups/)
 [![cozups's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cozups&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cozups)
 
-Stacks
-<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=c++&logoColor=white">
+### Stacks
+<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=white">
