@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 <br />
 
+🌱 현재 **NextJS**와 **TypeScript**를 중점적으로 공부하고 있습니다.
+
 ### Experiences
 🎓 Department of Computer Science and Engineering, Sogang University (2019 ~ 2022)
 
@@ -42,4 +44,3 @@ Here are some ideas to get you started:
 
 🖥️ Udemy X Sniper Factory 프론트엔드 프로젝트 캠프 (2024)
 
-🌱 현재 **NextJS**와 **TypeScript**를 중점적으로 공부하고 있습니다.
